@@ -34,11 +34,11 @@ a
     color: #2A2A2A;
     z-index: 99;
     opacity: 0.9;
+    margin-bottom: 2vw;
 }
 
 .Header
 {
-    margin-top: 3vw;
 }
 
 .CircleContainer
