@@ -1,0 +1,18 @@
+
+.CircleContainer
+{
+    justify-self: flex-start;
+    justify-content: flex-start;
+    min-height: 100vh;
+    max-width: 70%;
+    background-color: #FFF;
+    margin: 0;
+    padding-top: 5vw;
+    border-radius: 2rem;
+}
+
+.Container .Header h1
+{
+    color: #000000;
+}
+

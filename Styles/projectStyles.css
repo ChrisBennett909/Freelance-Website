@@ -1,0 +1,27 @@
+
+.CircleContainer
+{
+    display: flex;
+    flex-flow: row wrap;
+    background: linear-gradient(360deg, #555555, #FFFFFF);
+    border-radius: 4rem;
+    //box-shadow: 4px 4px 4px 8px #FFFFF1;
+    min-width: 80%;
+    min-height: 22vw;
+    justify-content: flex-start;
+    overflow: hidden;
+}
+
+.CircleTwo
+{
+    position: static;
+    margin: 1vw;
+    background: linear-gradient(135deg, #1A1A1A, #7A7A7A);
+}
+
+.CircleTwo:has(img) img
+{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}

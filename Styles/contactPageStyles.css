@@ -1,0 +1,26 @@
+
+.TextCard
+{
+    display: flex; flex-flow: column nowrap;
+    min-height: 25vw;
+    min-width: 20vw;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 1vw;
+    margin: 3vw;
+    padding-top: 4vw;
+    padding-bottom: 2vw;
+    padding-left: 2vw;
+    padding-right: 2vw;
+    border-radius: 5rem;
+    background: #FFFFFF;
+    color: #2A2A2A;
+}
+
+.TextCard input, .TextCard textarea, .TextCard button
+{
+    width: 100%;
+    margin-top: 1vw;
+    margin-bottom: 1vw;
+}
+

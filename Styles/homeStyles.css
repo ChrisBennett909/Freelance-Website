@@ -1,0 +1,13 @@
+.CircleOne
+{
+    background-image: url("../Assets/Images/JTDSS.png");
+    background-size: cover;
+    background-position: center;
+}
+
+.CircleTwo
+{
+    background-image: url("../Assets/Images/EmpireSS.png");
+    background-size: cover;
+    background-position: center;
+}
